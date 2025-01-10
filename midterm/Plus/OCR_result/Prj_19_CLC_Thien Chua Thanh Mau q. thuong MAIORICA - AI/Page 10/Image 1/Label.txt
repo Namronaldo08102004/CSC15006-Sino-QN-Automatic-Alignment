@@ -1,1 +1,0 @@
-Image 1/image1.png	[{"transcription": "目綠之", "points": [[613, 494], [668, 494], [668, 645], [613, 645]], "difficult": false}]

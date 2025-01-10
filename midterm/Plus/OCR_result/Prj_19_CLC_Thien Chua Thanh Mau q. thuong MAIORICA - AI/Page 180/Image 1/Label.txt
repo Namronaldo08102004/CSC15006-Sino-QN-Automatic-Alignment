@@ -1,1 +1,0 @@
-Image 1/image1.png	[{"transcription": "思象小永", "points": [[4, 816], [52, 816], [52, 993], [4, 993]], "difficult": false}]
